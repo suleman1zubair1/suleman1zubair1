@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @suleman1zubair1
 - 👀 I’m interested in Game Devlelopment 
 - 🌱 I’m currently learning Unity
-- 💞️ I’m looking to collaborate on Remote job
+- 💞️ I’m looking to collaborate remotely
 - 📫 You can reach me at suleman1zubair1@gmail.com 
 
 <!---
